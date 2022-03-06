@@ -1,4 +1,4 @@
-# vuejs_0825
+# vuejs_diary
 
 ## Project setup
 ```

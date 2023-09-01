@@ -11,6 +11,7 @@
 - [x] Vuex
 - [x] Vue Router
 - [x] JavaScript 
+- [x] Element Ui 
       
 #### 실행 방법
 ```
